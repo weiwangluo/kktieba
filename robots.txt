@@ -1,0 +1,4 @@
+# robots.txt for http://lovecc.ml
+#2014/07/21
+User-agent: *
+Disallow: /
